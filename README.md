@@ -1,6 +1,6 @@
 # About this repository
 This repository contains all of the assignemnts' source code for the machine learning and AI courses by Dr. Allen [Website](https://cs.uwlax.edu/~mallen/).  
-Those two courses covered some contents from Russell And Norvig's "Artificial Intelligence - A Modern Approach" book.[example code for the book](sss).  
+Those two courses covered some contents from Russell And Norvig's "Artificial Intelligence - A Modern Approach" book.[example code for the book](https://github.com/zeyakong/aima-java).  
 I used Java to implement most of the assignments. For the CNN assignment, I use Python to run the Keras package in Jupyter NoteBook in our CS lab volta machine.
 ## Artificial Intelligence  
 ### A* Search

@@ -1,0 +1,164 @@
+Welcome, this program will generate the mushrooms' decision tree.
+Please enter a training set size (a positive multiple of 250 that is <= 1000): 1000
+Please enter a training increment (either 10, 25, or 50): 50
+
+Loading Property Information from file.
+Loading Data from database.
+
+Collecting set of 1000 examples.
+
+Running with 50 examples in training set.
+
+Given current tree, there are 4359 correct classifications
+out of 4644 possible (a success rate of 93.863 percent).
+
+Running with 100 examples in training set.
+
+Given current tree, there are 4574 correct classifications
+out of 4644 possible (a success rate of 98.4927 percent).
+
+Running with 150 examples in training set.
+
+Given current tree, there are 4633 correct classifications
+out of 4644 possible (a success rate of 99.7631 percent).
+
+Running with 200 examples in training set.
+
+Given current tree, there are 4633 correct classifications
+out of 4644 possible (a success rate of 99.7631 percent).
+
+Running with 250 examples in training set.
+
+Given current tree, there are 4633 correct classifications
+out of 4644 possible (a success rate of 99.7631 percent).
+
+Running with 300 examples in training set.
+
+Given current tree, there are 4633 correct classifications
+out of 4644 possible (a success rate of 99.7631 percent).
+
+Running with 350 examples in training set.
+
+Given current tree, there are 4633 correct classifications
+out of 4644 possible (a success rate of 99.7631 percent).
+
+Running with 400 examples in training set.
+
+Given current tree, there are 4633 correct classifications
+out of 4644 possible (a success rate of 99.7631 percent).
+
+Running with 450 examples in training set.
+
+Given current tree, there are 4633 correct classifications
+out of 4644 possible (a success rate of 99.7631 percent).
+
+Running with 500 examples in training set.
+
+Given current tree, there are 4633 correct classifications
+out of 4644 possible (a success rate of 99.7631 percent).
+
+Running with 550 examples in training set.
+
+Given current tree, there are 4633 correct classifications
+out of 4644 possible (a success rate of 99.7631 percent).
+
+Running with 600 examples in training set.
+
+Given current tree, there are 4633 correct classifications
+out of 4644 possible (a success rate of 99.7631 percent).
+
+Running with 650 examples in training set.
+
+Given current tree, there are 4633 correct classifications
+out of 4644 possible (a success rate of 99.7631 percent).
+
+Running with 700 examples in training set.
+
+Given current tree, there are 4633 correct classifications
+out of 4644 possible (a success rate of 99.7631 percent).
+
+Running with 750 examples in training set.
+
+Given current tree, there are 4635 correct classifications
+out of 4644 possible (a success rate of 99.8062 percent).
+
+Running with 800 examples in training set.
+
+Given current tree, there are 4635 correct classifications
+out of 4644 possible (a success rate of 99.8062 percent).
+
+Running with 850 examples in training set.
+
+Given current tree, there are 4644 correct classifications
+out of 4644 possible (a success rate of 100 percent).
+
+Running with 900 examples in training set.
+
+Given current tree, there are 4644 correct classifications
+out of 4644 possible (a success rate of 100 percent).
+
+Running with 950 examples in training set.
+
+Given current tree, there are 4644 correct classifications
+out of 4644 possible (a success rate of 100 percent).
+
+Running with 1000 examples in training set.
+
+Given current tree, there are 4644 correct classifications
+out of 4644 possible (a success rate of 100 percent).
+
+     -------------------
+     Final Decision Tree
+     -------------------
+
+Branch[0]:     Attrib #4: a; Edible.
+Branch[1]:     Attrib #4: l; Edible.
+Branch[2]:     Attrib #4: c; Poison.
+Branch[3]:     Attrib #4: y; Edible.
+Branch[4]:     Attrib #4: f; Poison.
+Branch[5]:     Attrib #4: m; Poison.
+Branch[6]:     Attrib #4: n; Attrib #19: k; Edible.
+Branch[7]:     Attrib #4: n; Attrib #19: n; Edible.
+Branch[8]:     Attrib #4: n; Attrib #19: b; Edible.
+Branch[9]:     Attrib #4: n; Attrib #19: h; Edible.
+Branch[10]:     Attrib #4: n; Attrib #19: r; Poison.
+Branch[11]:     Attrib #4: n; Attrib #19: o; Edible.
+Branch[12]:     Attrib #4: n; Attrib #19: u; Edible.
+Branch[13]:     Attrib #4: n; Attrib #19: w; Attrib #2: n; Edible.
+Branch[14]:     Attrib #4: n; Attrib #19: w; Attrib #2: b; Edible.
+Branch[15]:     Attrib #4: n; Attrib #19: w; Attrib #2: c; Edible.
+Branch[16]:     Attrib #4: n; Attrib #19: w; Attrib #2: g; Edible.
+Branch[17]:     Attrib #4: n; Attrib #19: w; Attrib #2: r; Edible.
+Branch[18]:     Attrib #4: n; Attrib #19: w; Attrib #2: p; Edible.
+Branch[19]:     Attrib #4: n; Attrib #19: w; Attrib #2: u; Edible.
+Branch[20]:     Attrib #4: n; Attrib #19: w; Attrib #2: e; Edible.
+Branch[21]:     Attrib #4: n; Attrib #19: w; Attrib #2: w; Poison.
+Branch[22]:     Attrib #4: n; Attrib #19: w; Attrib #2: y; Poison.
+Branch[23]:     Attrib #4: n; Attrib #19: y; Edible.
+Branch[24]:     Attrib #4: p; Poison.
+Branch[25]:     Attrib #4: s; Edible.
+
+     ----------
+     Statistics
+     ----------
+
+Training set size: 50.  Success:  93.863 percent.
+Training set size: 100.  Success:  98.493 percent.
+Training set size: 150.  Success:  99.763 percent.
+Training set size: 200.  Success:  99.763 percent.
+Training set size: 250.  Success:  99.763 percent.
+Training set size: 300.  Success:  99.763 percent.
+Training set size: 350.  Success:  99.763 percent.
+Training set size: 400.  Success:  99.763 percent.
+Training set size: 450.  Success:  99.763 percent.
+Training set size: 500.  Success:  99.763 percent.
+Training set size: 550.  Success:  99.763 percent.
+Training set size: 600.  Success:  99.763 percent.
+Training set size: 650.  Success:  99.763 percent.
+Training set size: 700.  Success:  99.763 percent.
+Training set size: 750.  Success:  99.806 percent.
+Training set size: 800.  Success:  99.806 percent.
+Training set size: 850.  Success:  100 percent.
+Training set size: 900.  Success:  100 percent.
+Training set size: 950.  Success:  100 percent.
+Training set size: 1000.  Success:  100 percent.

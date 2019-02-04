@@ -4,7 +4,7 @@ This repository contains all of the assignemnts' source code for the machine lea
 Those two courses covered some contents from Russell And Norvig's ["Artificial Intelligence - A Modern Approach"](http://aima.cs.berkeley.edu/) book.   
 
 I used Java to implement most of the assignments. For the CNN (convolutional neural network) assignment, I use Python to run the Keras package in Jupyter NoteBook in our CS lab volta machine.
-## Artificial Intelligence-CS552
+## CS552: Artificial Intelligence
 ### A* Search
 Input two cities' name, the program will output the shortest path by using A* search.(Java)
 ### CSP Search
@@ -15,7 +15,7 @@ Used the enumerative query algorithm.(Java)
 The program used Java to implement the dynamic programming methods shown in class (iterative policy evaluation and update) to generate an optimal policy for the agent, where we define this as: the shortest path from the starting location to the set of n target objects of largest value, where n is the minimum of carrying capacity c and the total number of targets.
 ### QLearning and SARSA (in Policy/off Policy)
 The basic Java implmentation for Q Learning and SARSA.
-## Machine Learning-CS519
+## CS519: Machine Learning
 ### Decision Tree
 In this assignment, I implemented the Decision Tree learning algorithm by using a data-set that includes mushroom records drawn from the Audubon Society Field Guide to North American Mushrooms (1981) by Java. 
 ### KD Tree

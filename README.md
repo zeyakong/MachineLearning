@@ -10,7 +10,7 @@ A program for backtracking CSP search.(Java)
 ### Probability: Bayes Network
 Using the enumerative query algorithm.(Java)
 ### Iterative Policy Evaluation(dynamic programming)
-The program will use Java to implement the dynamic programming methods shown in class (iterative policy evaluation and update) to generate an optimal policy for the agent, where we define this as: the shortest path from the starting location to the set of n target objects of largest value, where n is the minimum of carrying capacity c and the total number of targets.
+The program used Java to implement the dynamic programming methods shown in class (iterative policy evaluation and update) to generate an optimal policy for the agent, where we define this as: the shortest path from the starting location to the set of n target objects of largest value, where n is the minimum of carrying capacity c and the total number of targets.
 ### QLearning and SARSA (in Policy/off Policy)
 The basic Java implmentation for Q Learning and SARSA.
 ## Machine Learning

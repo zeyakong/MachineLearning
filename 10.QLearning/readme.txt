@@ -14,7 +14,7 @@ then
 It will show all the information same as your explanation in the class.
 
 Because I wrote the same Q Learning last year in your AI course. When I went though my previous code, I found that the code has many unnecessary complexity data structure. So this year I redesigned all the code and followed the Software Engineering principles to try to make a elegant code.
-The idea is from your code when you shown your code mistakes about the randomness bug. I noticed that using the position array to represent a state is much easier than using a object.
+The idea is from your code when you shown your code mistakes about the randomness bug. I noticed that using the position array to represent a state is much easier than using an object.
 So, I use a three dimensional array to store the Q value instead of a HashMap to represent the many-to-one relationship. The code comments show the details.
 
 The graph shows that the feature-based Q learns faster and the curve is stable compare to the basic Q learning.

@@ -3,7 +3,7 @@ This repository contains all of the assignemnts' source code for the machine lea
 
 Those two courses covered some contents from Russell And Norvig's ["Artificial Intelligence - A Modern Approach"](http://aima.cs.berkeley.edu/) book.   
 
-I used Java to implement most of the assignments. For the CNN (Convolutional Neural Network) assignment, I use Python to run the Keras package in Jupyter NoteBook in our CS lab volta machine.
+I used Java to implement most of the assignments. For the CNN (Convolutional Neural Network) assignment, I used Python to run the Keras package in Jupyter NoteBook in our CS lab volta machine.
 ## CS552: Artificial Intelligence
 ### A* Search
 Input two cities' name, the program will output the shortest path by using A* search.(Java)
